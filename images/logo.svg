@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 84.452px;
+        fill: #fff;
+        font-family: Didot;
+      }
+    </style>
+  </defs>
+  <path id="多边形_2" data-name="多边形 2" class="cls-1" d="M443.483,442.354l-256.71,68.785L-1.152,323.215,67.634,66.5,324.344-2.281,512.269,185.644Z"/>
+  <text id="SUKI" class="cls-2" transform="translate(2.186 330.01) scale(2.629)">SUKI</text>
+</svg>
